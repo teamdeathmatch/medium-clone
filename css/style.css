@@ -1,0 +1,67 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.bg-yellow{
+    background-color: #FFC017;
+}
+
+.medium-title{
+    font-family: 'Tiro Devanagari Hindi', serif;
+}
+.border-bottom-dark{
+    border-bottom: 1px solid rgba(41, 41 , 41, 1);
+    
+}
+
+.content-area{
+    justify-content: center;
+}
+
+.border-bottom-grey{
+    border-bottom: 1px solid rgb(233, 230, 230);
+}
+
+.m-letters{
+    width: 530px;
+    max-height: 100%;
+}
+
+.logo a{
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.collapse a{
+    font-size: 14px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.title-left .get-started{
+    font-family: 'Roboto', sans-serif;
+}
+
+.trending{
+    align-items: center;
+    flex-direction: row;
+}
+.stat-svg{
+    display: block;
+   
+    box-sizing: inherit;
+}
+
+.numbers{
+    font-size: 35px;
+    color: rgb(216, 214, 214);
+    font-family: 'Roboto', sans-serif;
+}
+
+.list-tag .tag{
+    border-radius: 1px;
+    font-size: 12px;
+    color:rgb(166, 164, 164);
+    border-color: rgb(166, 164,164);
+
+    
+
+}
